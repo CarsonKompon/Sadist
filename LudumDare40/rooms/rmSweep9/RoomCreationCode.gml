@@ -1,0 +1,1 @@
+init_sweeping(objWall,90,objDust,irandom_range(16,22) * room_speed,irandom_range(900,1000));

@@ -1,0 +1,1 @@
+init_pickup(objWall,8,objToy,irandom_range(10,20) * room_speed,irandom_range(100,200), 4);

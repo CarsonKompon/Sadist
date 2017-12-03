@@ -1,0 +1,1 @@
+init_weed(objGrass,100,objWeed,irandom_range(6,10) * room_speed,irandom_range(100,200));

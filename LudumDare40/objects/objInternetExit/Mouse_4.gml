@@ -1,0 +1,1 @@
+if(!objInternetSend.cutscene) room_goto(rmMain);

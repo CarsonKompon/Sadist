@@ -1,0 +1,1 @@
+init_vacuum(objWall,30,objDust,irandom_range(5,10) * room_speed,irandom_range(100,200));

@@ -1,0 +1,1 @@
+init_trash(irandom_range(3,5),irandom_range(6,10) * room_speed,irandom_range(200,300));
